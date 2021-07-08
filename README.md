@@ -1,4 +1,13 @@
-# procedimentos de instalação de dependencias
+# Procedimentos de Instalação de Dependências
+
+```
+#Instalar no terminal o fastapi em um ambiente virtual pipenv com servidor ASGI Uvicorn
+pipenv install fastapi uvicorn
+
+#Execute no terminal pipenv shell para ativar seu ambiente
+pipenv shell
+
+```
 
 # Como executar o projeto
 
